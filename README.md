@@ -1,2 +1,3 @@
-# Feebo-Contest_Trainer
-Python Script to start a training environment for Codeforces
+# Feebo
+
+Feebo is a command-line tool that opens Chrome with a specific link and also opens Sublime Text.
